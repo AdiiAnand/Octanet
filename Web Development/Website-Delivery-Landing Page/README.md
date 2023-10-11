@@ -9,4 +9,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![Delivery website](/preview.png)
+
+![preview](https://github.com/AdiiAnand/Octanet/assets/35601079/c976775e-84ca-4269-b127-9a8fbcf281cc)
